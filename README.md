@@ -2,5 +2,6 @@
 
 ## Le cahier des charges
 
-![](./cahier_des_charges.md)
+![](./doc/cahier_des_charges.md)
 
+![](./doc/user_stories.md)
